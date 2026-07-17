@@ -1,0 +1,7 @@
+1. Otwórz repozytorium GitHub.
+2. Wgraj CAŁĄ zawartość paczki, nie sam folder nadrzędny.
+3. Plik index.html musi znajdować się w głównym katalogu.
+4. Settings → Pages → Deploy from a branch → main → /(root).
+5. Custom domain: idziak.com.pl
+6. Po poprawnej kontroli DNS zaznacz Enforce HTTPS.
+7. W OVH ustaw rekordy DNS opisane w pliku OVH_DNS_DLA_GITHUB.txt.
